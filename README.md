@@ -1,4 +1,4 @@
-![logo](https://github.com/Rambabu2051/Rambabu2051/blob/main/WhatsApp%20Image%202023-04-19%20at%2012.00.55%20PM.jpeg)
+![logo](https://github.com/Rambabu2051/Rambabu2051/blob/main/Ram%20banner.jpeg)
 <h1 align="center">Hello,This is Rambabu </h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="500" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
